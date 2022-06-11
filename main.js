@@ -4,3 +4,4 @@ Examples:
     xify('hello') -> 'xxxxx'
     xify('hi there') -> 'xxxxxxxx'
 */
+
